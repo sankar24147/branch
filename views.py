@@ -1,2 +1,2 @@
 def pandi():
-    print("sankar")
+    print("pandi")
