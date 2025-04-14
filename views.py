@@ -6,3 +6,7 @@ def pandi():
 
 def r1():
     print("r1")
+
+def rushabh():
+    print("rushabh")
+
