@@ -1,5 +1,5 @@
 def sankar():
     print("sankar")
 
-def pandi():
-    print("pandi")
+def rushabh():
+    print("rushabh")
