@@ -6,6 +6,3 @@ def pandi():
 
 def r1():
     print("r1")
-
-
-
